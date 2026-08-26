@@ -11,3 +11,4 @@ for num in nums:
         break
 
     seen[num] = 1
+    
